@@ -4,3 +4,4 @@ hello world
 Creating a new branch is quick.
 use branch command.
 Creating a new branch is quick and simple.
+branch manage
